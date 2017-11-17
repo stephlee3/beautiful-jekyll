@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Runzhe Li
-subtitle: 4th year undergraduate in Statistics at Tsinghua University
+title: Welcome to my homepage~
 use-site-title: true
 ---
 My name is Runzhe Li. I am a 4th year undergraduate in the Department of Mathematical Sciences,Tsinghua University. My research interests are:
