@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Research
-subtitle: Rearch Projects
+subtitle: What I have done before~
 ---
 
+### Research Projects
   
 #### Cross-Platform Prediction of Regulome Activities
 - Use gene expression to predict DNase-level based on **BIRD**. 
@@ -18,10 +19,9 @@ subtitle: Rearch Projects
 - Design a recommendation list for high school students based on their ranks and scores.
 - [See the code here!](https://bitbucket.org/stephlee3/2017-srt)
 
----
-layout: page
-subtitle: Capstone Projects
----
+
+### Capstone Projects
+
 #### _Data Science Course Project_: NBA Data Analysis
 - Data collection& cleaning
 - Exploratory data analysis, data visualization
