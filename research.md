@@ -17,3 +17,15 @@ subtitle: Rearch Projects
 #### The University Recommendation System
 - Design a recommendation list for high school students based on their ranks and scores.
 - [See the code here!](https://bitbucket.org/stephlee3/2017-srt)
+
+---
+subtitle: Capstone Projects
+---
+#### _Data Science Course Project_: NBA Data Analysis
+- Data collection& cleaning
+- Exploratory data analysis, data visualization
+- Machine learning techniques: Players' Efficency prediction
+
+#### _Data Mining Course Project_: Text Classification on Sohu News
+- Word preprocessing & feature extraction & document representation
+- Classification model selection: ensemble learning
