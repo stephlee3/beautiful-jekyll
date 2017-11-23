@@ -1,0 +1,19 @@
+---
+layout: page
+title: Research
+subtitle: Rearch Projects
+---
+
+  
+#### Cross-Platform Prediction of Regulome Activities
+- Use gene expression to predict DNase-level based on **BIRD**. 
+- Normalization methods to tackle the platform effect.
+
+  
+#### Chinese Medical Text Analysis
+- Word segmentation, key word extraction, dictionary building, vector representation, metric learning.
+- Deep generative model involving LSTM, GAN.
+  
+#### The University Recommendation System
+- Design a recommendation list for high school students based on their ranks and scores.
+- [See the code here!](https://bitbucket.org/stephlee3/2017-srt)
