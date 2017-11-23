@@ -9,7 +9,7 @@ subtitle: What I have done before~
 #### Cross-Platform Prediction of Regulome Activities
 - Use gene expression to predict DNase-level based on **BIRD**. 
 - Normalization methods to tackle the platform effect.
-
+- [See the code here!(In progress)](https://github.com/stephlee3/Cross-Platform-Prediction-of-Regulome-Activities)
   
 #### Chinese Medical Text Analysis
 - Word segmentation, key word extraction, dictionary building, vector representation, metric learning.
