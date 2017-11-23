@@ -19,6 +19,7 @@ subtitle: Rearch Projects
 - [See the code here!](https://bitbucket.org/stephlee3/2017-srt)
 
 ---
+layout: page
 subtitle: Capstone Projects
 ---
 #### _Data Science Course Project_: NBA Data Analysis
