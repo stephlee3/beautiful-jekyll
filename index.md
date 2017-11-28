@@ -4,7 +4,7 @@ title: Welcome to my homepage~
 use-site-title: true
 bigimg:
   - "img/Inner Harbor.jpg" : "Inner Harbor, Baltimore MD"
-  - "img/Ithaca.jpg" : "Ithaca NY (2017)"
+  - "img/Ithaca.jpg" : "Ithaca NY"
   - "img/Golden Gate Bridge.JPG" : "Golden Gate Bridge, San Francisco CA"
   
 ---
