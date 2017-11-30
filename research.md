@@ -8,7 +8,7 @@ subtitle: What I have done before~
   
 #### Cross-Platform Prediction of Regulome Activities
 - Use gene expression to predict DNase-level based on [BIRD](https://www.nature.com/articles/s41467-017-01188-x) 
-- Normalization methods to deal with the platform effect.
+- Propose normalization methods to deal with the platform effect.
 - Work on the paper.
 - [See the code here!(In progress)](https://github.com/stephlee3/Cross-Platform-Prediction-of-Regulome-Activities)
   
@@ -31,5 +31,5 @@ subtitle: What I have done before~
 
 #### _Data Mining Course Project_: Text Classification on Sohu News
 - Word preprocessing & feature extraction & document representation
-- Classification model selection: ensemble learning
+- Classification model aggregation: ensemble learning
 - [Download the data here!](http://www.sogou.com/labs/resource/cs.php)
