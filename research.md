@@ -2,7 +2,6 @@
 layout: page
 title: Research
 subtitle: What I have done before~
-avatar: "JSM_Runzhe.jpg"
 ---
 
 ### Research Projects
