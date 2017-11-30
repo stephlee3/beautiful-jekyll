@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: 4th year undergrad student at Tsinghua University
+avatar: "JSM_Runzhe.jpg"
 ---
 
 
