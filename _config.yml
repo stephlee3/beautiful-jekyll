@@ -25,6 +25,7 @@ description: first year Biostatistics PhD student
 navbar-links:
   About Me: "aboutme"
   Research: "research"
+  Contact : "contact"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
