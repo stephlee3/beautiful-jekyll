@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-subtitle: What I have done before~
 ---
 
 ### Research Projects
