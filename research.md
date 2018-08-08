@@ -16,10 +16,16 @@ title: Research
 - Generate medical records datasets via deep generative models. Work on the paper(In progress).
 - Undergraduate thesis working on the _"Statistical and machine learning methods to recognize terms in clinical texts"_, propose a semi-supervised learning approach to address sequence labeling problems in Chinese texts. 
   
+#### Variable Selection in High-dimensional Classification Problems | Tsinghua Univ.
+- Propose clustering-SODA to solve regression problems with multivariate response. (SODA is a stepwise variable and interaction selection procedure)
+- Implement the method on eQTL data.
+
+
 #### The University Recommendation System | Tsinghua Univ.
 - Design a recommendation list for high school students based on their ranks and scores.
-- keywords: Probability estimation, Mathematical programming, Dynamic programming, 
 - Collaborate with APP: [Perfect Application](https://www.wmzy.com/)
+- keywords: Probability estimation, Mathematical programming, Dynamic programming.
+
 
 ### Capstone Projects
 
