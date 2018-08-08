@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to my homepage~
+title: Welcome to my homepage!
 use-site-title: true
 bigimg:
   - "img/Inner_Harbor.jpg" : "Inner Harbor, Baltimore MD"
