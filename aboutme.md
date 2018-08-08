@@ -5,7 +5,7 @@ subtitle: first year PhD student at Johns Hopkins University
 show-avatar: false
 ---
 
-![Runzhe Li](/img/jsm_Runzhe.jpg)
+![Runzhe Li](/img/JSM_Runzhe.jpg)
 
 My name is Runzhe Li. I am an incoming PhD student at [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), Johns Hopkins University. I received my Bachelor degree from [Department of Mathematical Sciences](http://math.tsinghua.edu.cn/), Tsinghua University in July 2018.
 
