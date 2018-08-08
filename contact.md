@@ -1,5 +1,5 @@
 ---
-title: Contact
+subtitle: Contact
 ---
 
 You can reach me via email.
