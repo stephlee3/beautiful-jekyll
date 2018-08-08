@@ -12,8 +12,9 @@ title: Research
 - [See the code here!(In progress)](https://github.com/stephlee3/Cross-Platform-Prediction-of-Regulome-Activities)
   
 #### Chinese Medical Text Analysis | Tsinghua Univ.
-- Word segmentation, key word extraction, dictionary building, vector representation, metric learning.
-- Deep generative model involving LSTM, GAN.
+- Design the work flow for electronic health records analysis:  Word segmentation, key word extraction, dictionary building, vector representation, metric learning.
+- Generate medical records dataset via deep generative models. (In progress)
+- Undergraduate thesis working on the _Statistical and machine learning methods to recognize terms in clinical texts_, propose a semi-supervised learning approach to address sequence labeling problems in Chinese texts. 
   
 #### The University Recommendation System | Tsinghua Univ.
 - Design a recommendation list for high school students based on their ranks and scores.
@@ -25,7 +26,7 @@ title: Research
 #### _Data Science Course Project_: NBA Data Analysis
 - Data collection& cleaning
 - Exploratory data analysis, data visualization
-- Machine learning techniques: Players' Efficency prediction
+- Machine learning algorithms: Players' Efficency prediction
 - [Download the data here!](http://www.espn.com/nba/statistics)
 
 #### _Data Mining Course Project_: Text Classification on Sohu News
