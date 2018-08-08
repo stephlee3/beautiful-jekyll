@@ -6,7 +6,7 @@ show-avatar: false
 ---
 
 <center>
-<img src="/img/JSM.jpg">
+<img src="/img/JSM_Runzhe.jpg">
 </center>
 
 My name is Runzhe Li. I am an incoming PhD student at [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), Johns Hopkins University. I received my Bachelor degree from [Department of Mathematical Sciences](http://math.tsinghua.edu.cn/), Tsinghua University in July 2018.
