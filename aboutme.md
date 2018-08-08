@@ -5,12 +5,19 @@ subtitle: first year PhD student at Johns Hopkins University
 show-avatar: false
 ---
 
+<left>
 ![Runzhe](/img/JSM_Runzhe.jpg)
+</left>
 
+<right>
 Runzhe Li
+  
 Department of Biostatistics
+
 Johns Hopkins Bloomberg School of Public Health
+
 Baltimore, MD 21205
+</right>
 
 My name is Runzhe Li. I am an incoming PhD student at [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), Johns Hopkins University. I received my Bachelor degree from [Department of Mathematical Sciences](http://math.tsinghua.edu.cn/), Tsinghua University in July 2018.
 
