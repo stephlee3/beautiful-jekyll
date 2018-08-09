@@ -5,7 +5,7 @@ title: Research
 
 ### Research Projects
   
-#### [Cross-Platform Prediction of Regulome Activities | Johns Hopkins Univ.](https://stephlee3.github.io/research/cross_platform)
+#### Cross-Platform Prediction of Regulome Activities | Johns Hopkins Univ.
 - Utilize gene expression data to predict DNase-level by [BIRD](https://www.nature.com/articles/s41467-017-01188-x), a cluster-based method to solve high-dimensional regression problems.
 - Propose novel normalization methods and theoretical framework to handle "platform effect". 
 - Work on the paper(In progress).
