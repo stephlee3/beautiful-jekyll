@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /research/cross_platform/
 ---
 # Cross-Platform Prediction
