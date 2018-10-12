@@ -25,7 +25,9 @@ description: first year Biostat PhD student at Johns Hopkins
 navbar-links:
   About Me: "aboutme"
   Research: "research"
+  Publications: "publications"
   Contact : "contact"
+  
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
