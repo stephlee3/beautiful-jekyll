@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: Publications
 ---
 
 - <b>Generation of Synthetic Electronic Medical Record Text </b>  
