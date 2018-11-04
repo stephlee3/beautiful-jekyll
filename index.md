@@ -12,10 +12,17 @@ My name is Runzhe Li. I am a first-year PhD student at the Department of Biostat
 
 Click [About Me](https://stephlee3.github.io/aboutme) for more details.
 
-<div class="post-list">
-  {% for post in paginator.posts %}
-    {% include post.html %}
-  {% endfor %}
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-  {% include pagination.html %}
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
 </div>
