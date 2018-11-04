@@ -11,3 +11,11 @@ bigimg:
 My name is Runzhe Li. I am a first-year PhD student at the Department of Biostatistics, Johns Hopkins University. I graduated from Department of Mathematical Sciences, Tsinghua University in July 2018.
 
 Click [About Me](https://stephlee3.github.io/aboutme) for more details.
+
+<div class="post-list">
+  {% for post in paginator.posts %}
+    {% include post.html %}
+  {% endfor %}
+
+  {% include pagination.html %}
+</div>
