@@ -3,8 +3,6 @@ layout: post
 title: Interesting Residual Plots
 permalink: /posts/residual-plots
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
 
 Consider you are fitting a linear regression on the given dataset, and draw the scatter plot of *residuals* vs *predicted values*. However, you might feel confused when you get the following interesting plots.  
 
