@@ -31,7 +31,7 @@ title: Research
 Projects | Keywords       
 ----------| ---------      
 Variable Selection in High-dimensional Classification Problems   | stepwise variable selection, main and quadratic interaction terms  
-The University Recommendation System |probability estimation, linear programming, dynamic programming|
+The University Recommendation System |probability estimation, linear programming, dynamic programming
 Theme Dictionary Models | EM algorithms, word segmentation 
 Network Tomography|tree structure, EM algorithms
 A Hitchhiker's Guide to NBA Data Analysis | data collection & cleansing, exploratory data analysis, data visualization, machine learning
