@@ -14,4 +14,4 @@ Click [About Me](https://stephlee3.github.io/aboutme) for more details.
 
 ---
 #### Recent News
-- I am going to present my work (contributed paper) at JSM 2019, Denver, Colorado.
+- I am going to present my [work](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218583) (contributed paper) at JSM 2019, Denver, Colorado.
