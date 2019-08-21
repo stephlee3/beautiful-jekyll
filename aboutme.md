@@ -6,7 +6,7 @@ show-avatar: false
 ---
 
 <center>
-<img src="/img/JSM_Runzhe.jpg">
+<img src="/img/JSM_Runzhe.jpg" width="300" height="300">
 </center>
 
 My name is Runzhe Li. I am a second-year PhD student at [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), Johns Hopkins University. I am very fortunate to be advised by Prof. [Hongkai Ji](http://www.biostat.jhsph.edu/~hji/).
