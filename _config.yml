@@ -29,7 +29,7 @@ navbar-links:
   posts: "posts"
   Contact : "contact"
   Resources: 
-    - "resources/compclub"
+    - Computing Club: "resources/compclub"
   
   
   #Resources:
