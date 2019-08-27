@@ -28,6 +28,8 @@ navbar-links:
   Publications: "publications"
   posts: "posts"
   Contact : "contact"
+  Resources: 
+    - "resources/compclub"
   
   
   #Resources:
