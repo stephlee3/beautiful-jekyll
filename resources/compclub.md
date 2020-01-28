@@ -13,4 +13,4 @@ Check [here](https://martakarass.github.io/resources/computing-club/) for the pr
 | 10/08/2019 (W3008)   | [Git tutorial](https://happygitwithr.com/) | Joe Catallini |
 | 10/29/2019 (W3008)   | Dimension Reduction [[slides](/resources/Lukas_slides.pdf)][[Github Repo](https://github.com/lmweber/student-computing-club-dimension-reduction)]  | [Lukas Weber](https://lmweber.github.io/) |
 | 12/03/2019 (W3008)   | Guassian Quadrature [[slides](/resources/Gauss_Quadtrature_Computing_Club.html)] | Lacey Etzkorn |
-| 1/28/2020 (W3008)   | Model Selection [[html](/resources/model_sel)] | [Runzhe Li](https://github.com/stephlee3) |
+| 1/28/2020 (W3008)   | Model Selection [[html](/resources/notes.html)] | [Runzhe Li](https://github.com/stephlee3) |
