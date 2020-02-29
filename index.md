@@ -10,7 +10,9 @@ bigimg:
 ---
 My name is Runzhe Li. I am a second-year PhD student at the Department of Biostatistics, Johns Hopkins University. I graduated from Department of Mathematical Sciences, Tsinghua University in July 2018.
 
-Click [About Me](https://stephlee3.github.io/aboutme) for more details.
+Click [About Me](/aboutme) for more details.
+
+Reach me at rli51 [at] jhmi [dot] edu, or check [Contact](/contact) for further information.  
 
 ---
 #### Recent News
