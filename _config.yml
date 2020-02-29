@@ -28,10 +28,10 @@ navbar-links:
   Publications: "publications"
   posts: "posts"
   Contact : "contact"
- # Resources: 
+ # Resources:
  #   - Computing Club: "resources/compclub"
-  
-  
+
+
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
