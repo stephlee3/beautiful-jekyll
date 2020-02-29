@@ -29,10 +29,10 @@ component score statistics.
 ### Course Projects
 - A Bayesian hierarchical model for PANSS score trajectory prediction. [[link]](https://stephlee3.github.io/Bayes_hierachical_special_studies/) <br/>
 _Advanced Topics in Bayesian Hierarchical
-Models_
+Models_ | PH.140.850
 
 - NHANES data presentaion. [[link]](https://stephlee3.github.io/Wearable_special_studies/) <br/>
-_Advanced Topics in Wearable Computing_
+_Advanced Topics in Wearable Computing_ | PH.140.850
 
 - 2019-2020 NBA Playoffs Prediction. [[link]](https://advds71x.github.io/NBAproj/) <br/>
-_Advanced Data Science_
+_Advanced Data Science_ | PH.140.712
