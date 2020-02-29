@@ -7,7 +7,7 @@ title: Research
 
 #### Cross-Platform Prediction of Regulatory Activities
 
-<img style="float: left;" src="/img/research_img/normalize.PNG" width="400" height="250" hspace="20">
+<img style="float: left;" src="/img/research_img/normalize.png" width="400" height="250" hspace="20">
 
 - Proposed normalization methods to integrate gene expression data from multiple
 platforms.
@@ -17,7 +17,7 @@ platforms.
 
 
 #### Integrative Analysis of Alpha-Diversity in Microbiome Data
-<img style="float: left;" src="/img/research_img/qqplot.PNG" width="400" height="250" hspace = "20">
+<img style="float: left;" src="/img/research_img/qqplot.png" width="400" height="250" hspace = "20">
 
 - Developed a two-stage mixed-effect model to investigate the association between alpha diversity and phenotype of interests.
 - Proposed a joint hypothesis testing framework to incorporate the mean and variance
