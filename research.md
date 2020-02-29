@@ -5,34 +5,34 @@ title: Research
 
 ### Research Projects
 
-#### Cross-Platform Prediction of Regulatory Activities | Johns Hopkins University
-<img src="/img/research_img/bird_model.PNG">
+#### Cross-Platform Prediction of Regulatory Activities
 
-- Leverage gene expression measurements to predict DNase-seq level via [BIRD](https://www.nature.com/articles/s41467-017-01188-x), a cluster-based method to solve high-dimensional regression problems.
-- Propose normalization methods and incorporate a weighted ridge regression approach to handle "platform effect".
+<img style="float: left;" src="/img/research_img/normalize.PNG" width="400" height="250" hspace="20">
 
-
-#### The Analysis of Electronic Medical Records | Tsinghua University
-<img src="/img/research_img/EMR.PNG">
-
-- Generate synthetic electronic health records in Chinese free texts via mtGAN, a conditional model to produce designated diseases.
-- Work on statistical and machine learning methods to address sequence labeling problems, with application to recognizing key terms in clinical texts.
+- Proposed normalization methods to integrate gene expression data from multiple
+platforms.
+- Extended _Big Data Regression Model_ to perform cross-platform prediction.
+- Developed a generalized ridge regression model to penalize the potential bias between platforms. <br/>
+<br/>
 
 
+#### Integrative Analysis of Alpha-Diversity in Microbiome Data
+<img style="float: left;" src="/img/research_img/qqplot.PNG" width="400" height="250" hspace = "20">
+
+- Developed a two-stage mixed-effect model to investigate the association between alpha diversity and phenotype of interests.
+- Proposed a joint hypothesis testing framework to incorporate the mean and variance
+component score statistics.
+- Systematically designed the simulation studies. <br/>
+<br/>
 
 
-### Selected Undergrad Miscellaneous Projects
+### Course Projects
+- A Bayesian hierarchical model for PANSS score trajectory prediction. [[link]](https://stephlee3.github.io/Bayes_hierachical_special_studies/) <br/>
+_Advanced Topics in Bayesian Hierarchical
+Models_
 
+- NHANES data presentaion. [[link]](https://stephlee3.github.io/Wearable_special_studies/) <br/>
+_Advanced Topics in Wearable Computing_
 
-
-
-
-
-Projects | Keywords       
-----------| ---------      
-Variable Selection in High-dimensional Classification Problems   | stepwise variable selection, main and quadratic interaction terms  
-The University Recommendation System |probability estimation, linear programming, dynamic programming
-Theme Dictionary Models | EM algorithms, word segmentation 
-Network Tomography|tree structure, EM algorithms
-A Hitchhiker's Guide to NBA Data Analysis | data collection & cleansing, exploratory data analysis, data visualization, machine learning
-Text Classification of Sohu News|word preprocessing, feature engineering, document representation, ensemble learning
+- 2019-2020 NBA Playoffs Prediction. [[link]](https://advds71x.github.io/NBAproj/) <br/>
+_Advanced Data Science_

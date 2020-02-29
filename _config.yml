@@ -27,7 +27,10 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   posts: "posts"
-  Contact : "contact"
+  Resources :
+    - Computing Club: resources/compclub
+    - Teaching: "teaching"
+    - Contact: "contact"
  # Resources:
  #   - Computing Club: "resources/compclub"
 
