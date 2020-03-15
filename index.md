@@ -15,8 +15,9 @@ Click [About Me](/aboutme) for more details.
 Reach me at rli51 [at] jhmi [dot] edu, or check [Contact](/contact) for further information.  
 
 ---
-#### Recent News
 <!--
+#### Recent News
+
 - [03/2020] I am going to present my [work](https://www.enar.org/meetings/spring2020/program/preliminary-scientific-program.pdf) (contributed paper) at Virtual ENAR 2020.
 - [09/2019] I am going to host the [computing club](/resources/compclub) in academic year 2019-2020.
 - [07/2019] I am going to present my [work](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218583) (contributed paper) at JSM 2019, Denver, Colorado.
