@@ -8,7 +8,7 @@ bigimg:
   - "img/Golden_Gate_Bridge.jpg" : "Golden Gate Bridge, San Francisco CA"
 
 ---
-My name is Runzhe Li. I am a second-year PhD student at the Department of Biostatistics, Johns Hopkins University. I graduated from Department of Mathematical Sciences, Tsinghua University in July 2018.
+My name is Runzhe Li. I am a third-year PhD candidate at Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. I graduated from Department of Mathematical Sciences, Tsinghua University in July 2018.
 
 Click [About Me](/aboutme) for more details.
 
