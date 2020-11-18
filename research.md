@@ -11,7 +11,7 @@ title: Research
 <h4> Gene Regulation </h4>
 <div class="row">
 <div style="float: left; width: 40%;">
-<img style="float: left;" src="/img/research_img/normalize.PNG" width="400" height="250" hspace="20">
+<img style="float: left;" src="/img/research_img/normalize.png" width="400" height="250" hspace="20">
 </div>
 <div style="float: right; width: 50%;">
 <font size="2">
